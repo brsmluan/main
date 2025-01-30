@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${C:/Program Files/Raspberry Pi}/**",
+                "C:/ProgramFiles/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/**",
+                "C:/caminho/para/o/pico-sdk/include/**",
+                "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/lib/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:/Users/luans/Documents/EmbarcaTech/tarefa_aula_sincrona_27_01/mratrix_interrupicao_bounce",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
